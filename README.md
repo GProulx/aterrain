@@ -97,7 +97,7 @@ As a convenience concept an A-Location wrapper will place a given object at that
 Use in the browser with an html document like so:
 
 ```html
-<script src="https://aframe.io/releases/0.7.1/aframe.min.js"></script>
+<script src="https://aframe.io/releases/0.8.0/aframe.min.js"></script>
 <script src="../js/aframe-orbit-controls-component.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/webpack-cesium/1.37.0/webpack.cesium.js"></script>
 <script src="../../dist/aframe-aterrain-component.js"></script>
